@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-26T09:53:51.842Z</updated>
+  <updated>2023-10-27T09:26:48.845Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,40 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇博客</title>
+    <title>想说的一些东西</title>
     <link href="http://example.com/posts/d95d7e09.html"/>
     <id>http://example.com/posts/d95d7e09.html</id>
     <published>2023-10-26T07:54:06.000Z</published>
-    <updated>2023-10-26T09:53:51.842Z</updated>
+    <updated>2023-10-27T09:26:48.845Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><hr><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>内容</p><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p>:wq</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink&quot; title=&quot;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
-    <published>2023-10-26T07:46:09.654Z</published>
-    <updated>2023-10-26T09:53:51.843Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>作者: Jerry<br>連結: <a href="https://butterfly.js.org/posts/dc584b87/#Post-Front-matter">https://butterfly.js.org/posts/dc584b87/#Post-Front-matter</a><br>來源: Butterfly<br>著作權歸作者所有。商業轉載請聯繫作者獲得授權，非商業轉載請註明出處。</p><p><img src="https://i.postimg.cc/QMGq0f8Q/1698398698829.jpg"></p><h1 id="对本博客的规划"><a href="#对本博客的规划" class="headerlink" title="对本博客的规划"></a>对本博客的规划</h1><p>主要是记录一下对每周在校oj和洛谷上的算法训练题的复盘，但前几周先水一下，半期和数模竞赛过后再开始刷题，这段时间可以先发点meme梗图啥的，先把c语言学完，再看看算法再刷题。  </p><p>当然第一学期学习的算法也有限，主要是把一门语言学完，然后简单的一些算法还有数据结构的知识。各位应该也是有要学计算机的，等我把评论区弄好后也可以给我评论评价我的题目复盘，当然也可以分享一下自己的学习安排，交流交流，都哥们儿。</p><p>开设这个博客其实也就图一乐，一是写的开心，除了算法复盘，每周还可以发点梗图，或锐评一下专辑、游戏啥的；第二就是还是为了以后就业确实应该会好一点，履历上确实会感觉镀了一层金😅，“拥有七年写技术博客经验的程序员”听着挺唬人的；再然后确实就像个QQ空间一样了，吐点垃圾话，吐点真心话，发泄一下。🤘  </p><p>当然，写这个博客其实也还挺简单，就是用的语法要用这个markdown格式的，还是真得学一下，习惯一下。</p><p>半期后我研究一下开放评论区功能，优化一下网站，改改主题，改改排版，基本就真的可以唬人了，各位既然看到这条博客了还是可以记一记我的网站。</p><p>不知道能坚持多久周更，实在不行就月更了，我再折腾其他的技术网站，同步发技术博客，看看能不能行。</p><p>卷竞赛这条路其实我也没想好，妈的看了看acm真的太卷了，虽然我现在规划的是尽力进acm打一次啥的，但确实性价比挺低的，每周刷题，搞这个那个，确实提升能力，以后什么计算机考试或入职测试确实可以直接秒，但付出确实多，还不一定能进校队，更不一定会拿名次。  </p><p>看看吧，周天中午更新，前两期应该就是梗图啥的了，或者就是我锐评专辑或游戏。👏👏</p><p>如果你看到这里了，真心感谢你，听我说了一大堆，咱一起进步。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;作者: Jerry&lt;br&gt;連結: &lt;a href=&quot;https://butterfly.js.org/posts/dc584b87/#Post-Front-matter&quot;&gt;https://butterfly.js.org/posts/dc584b87/#Post-Front</summary>
       
     
     
