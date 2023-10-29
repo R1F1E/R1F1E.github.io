@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-29T04:40:01.146Z</updated>
+  <updated>2023-10-29T04:47:51.851Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/1126734d.html"/>
     <id>http://example.com/posts/1126734d.html</id>
     <published>2023-10-29T04:10:49.000Z</published>
-    <updated>2023-10-29T04:40:01.146Z</updated>
+    <updated>2023-10-29T04:47:51.851Z</updated>
     
     <content type="html"><![CDATA[<p>Jiluka的新歌venom总算在spotify上发了</p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/07u02zsACdScZ5lWSRESHy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>Jiluka是日本的电子核乐队，走视觉系的风格，乐队成员有主唱Ricko,吉他手Sena，bass手Boogie，和鼓手Zyean四位。现在确实是挺重的，电子breakdown，得劲儿。<p><img src="https://s2.loli.net/2023/10/29/tJ7xScquTmY6jIP.jpg"></p><p><img src="https://s2.loli.net/2023/10/29/NKdmQcTxPFtnv1E.jpg"></p><p><img src="https://s2.loli.net/2023/10/29/GZVyHi1F3K6jcI4.jpg"></p><p>mv这里贴一个油管的，有能力的小伙伴可查看。</p><iframe width="560" height="315" src="https://www.youtube.com/embed/psEMRalCPFQ?si=eoIwZtODKCPbu2M_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></content>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="music" scheme="http://example.com/categories/music/"/>
+    <category term="音乐随想" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90%E9%9A%8F%E6%83%B3/"/>
     
     
   </entry>
@@ -44,7 +44,7 @@
     <link href="http://example.com/posts/87875c53.html"/>
     <id>http://example.com/posts/87875c53.html</id>
     <published>2023-10-28T14:40:19.000Z</published>
-    <updated>2023-10-28T15:02:15.394Z</updated>
+    <updated>2023-10-29T04:48:57.553Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://s2.loli.net/2023/10/28/LEcu2njqaNRloCZ.webp"></p><p><img src="https://s2.loli.net/2023/10/28/sOGbLCUoNitqD4S.webp"></p><p><img src="https://s2.loli.net/2023/10/28/nV5w6e81AhMiEyG.webp"></p><p><img src="https://s2.loli.net/2023/10/28/5twLRevrDCEX46a.webp"></p><p><img src="https://s2.loli.net/2023/10/28/OBnlIVxfZQ5LHAo.webp"></p><p><img src="https://s2.loli.net/2023/10/28/wNWzOJoplRC4hms.webp"></p><p><img src="https://s2.loli.net/2023/10/28/dIeFPusM2oky8GR.webp"></p><p><img src="https://s2.loli.net/2023/10/28/ZwWoMe4uahzJrVv.webp"></p><p><img src="https://s2.loli.net/2023/10/28/To613BIgQHPh9lN.webp"></p><p>没了，这周就先水到这里了:smile:</p>]]></content>
     
@@ -57,6 +57,8 @@
     
     
     
+    <category term="看点meme摸摸鱼" scheme="http://example.com/categories/%E7%9C%8B%E7%82%B9meme%E6%91%B8%E6%91%B8%E9%B1%BC/"/>
+    
     
   </entry>
   
@@ -65,7 +67,7 @@
     <link href="http://example.com/posts/d95d7e09.html"/>
     <id>http://example.com/posts/d95d7e09.html</id>
     <published>2023-10-26T07:54:06.000Z</published>
-    <updated>2023-10-27T09:50:08.593Z</updated>
+    <updated>2023-10-29T04:48:39.439Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.postimg.cc/QMGq0f8Q/1698398698829.jpg"></p><h1 id="对本博客的规划"><a href="#对本博客的规划" class="headerlink" title="对本博客的规划"></a>对本博客的规划</h1><p>主要是记录一下对每周在校oj和洛谷上的算法训练题的复盘，但前几周先水一下，半期和数模竞赛过后再开始刷题，这段时间可以先发点meme梗图啥的，先把c语言学完，再看看算法再刷题。  </p><p>当然第一学期学习的算法也有限，主要是把一门语言学完，然后简单的一些算法还有数据结构的知识。各位应该也是有要学计算机的，等我把评论区弄好后也可以给我评论评价我的题目复盘，当然也可以分享一下自己的学习安排，交流交流，都哥们儿。</p><p>开设这个博客其实也就图一乐，一是写的开心，除了算法复盘，每周还可以发点梗图，或锐评一下专辑、游戏啥的；第二就是还是为了以后就业确实应该会好一点，履历上确实会感觉镀了一层金😅，“拥有七年写技术博客经验的程序员”听着挺唬人的；再然后确实就像个QQ空间一样了，吐点垃圾话，吐点真心话，发泄一下。🤘  </p><p>当然，写这个博客其实也还挺简单，就是用的语法要用这个markdown格式的，还是真得学一下，习惯一下。</p><p>半期后我研究一下开放评论区功能，优化一下网站，改改主题，改改排版，基本就真的可以唬人了，各位既然看到这条博客了还是可以记一记我的网站。</p><p>不知道能坚持多久周更，实在不行就月更了，我再折腾其他的技术网站，同步发技术博客，看看能不能行。</p><p>卷竞赛这条路其实我也没想好，妈的看了看acm真的太卷了，虽然我现在规划的是尽力进acm打一次啥的，但确实性价比挺低的，每周刷题，搞这个那个，确实提升能力，以后什么计算机考试或入职测试确实可以直接秒，但付出确实多，还不一定能进校队，更不一定会拿名次。  </p><p>看看吧，周天中午更新，前两期应该就是梗图啥的了，或者就是我锐评专辑或游戏。👏👏</p><p>如果你看到这里了，真心感谢你，听我说了一大堆，咱一起进步。</p>]]></content>
     
@@ -77,6 +79,8 @@
       
     
     
+    
+    <category term="乱七八糟" scheme="http://example.com/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/"/>
     
     
   </entry>
