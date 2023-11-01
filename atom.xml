@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-01T04:10:46.420Z</updated>
+  <updated>2023-11-01T15:28:29.981Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【第二期】音乐随想：雪沉乐队第四张专辑“云中君”发布</title>
+    <link href="http://example.com/posts/12c13aa4.html"/>
+    <id>http://example.com/posts/12c13aa4.html</id>
+    <published>2023-11-01T14:16:04.000Z</published>
+    <updated>2023-11-01T15:28:29.981Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=177888540&auto=1&height=430"></iframe><hr><p><img src="https://s2.loli.net/2023/11/01/z4OrAP3njVMpZfQ.jpg" alt="云中君.jpg"></p><hr><p>雪沉的微博动态如下<br><a href="https://weibo.com/5543041172/Nqq0A27Xs">https://weibo.com/5543041172/Nqq0A27Xs</a></p><hr><p>10月31日雪沉乐队发布了第四张专辑，《云中君》，品质还是一如既往的高</p><p>民族的就是世界的，雪沉一贯的风格不只是将民乐融合进金属，其实笔者更多看到的还是将不同流派，不同元素在一个框架下运用，他们第三张专辑《鹤行》中的《脊封》的出色不只是凭借优秀的作曲、作词，更是将不同元素融入到编曲工程中：唢呐，合成器（有点东方project感觉的lead音色哈哈哈哈）搭建的间奏与ending的收尾，张思汉老师出色的嗓音，都是非常出色的编排。这张新专同样充满这些优点和惊喜，比如由老汉他爸作词的《漠海》哈哈哈哈（有一说一真的牛逼）<br>intro《丝绸之路·弓月城》优秀的弦乐编排直接秀肌肉，紧接着的《塔儿山》成熟的编曲与和声合着笛声缓缓道来塔儿山的景色与故事……</p><p><img src="https://s2.loli.net/2023/11/01/5874xtWy2sHMFIp.jpg" alt="雪沉乐队.jpg"></p><p>笔者觉得雪沉最难得可贵的是在创新，旋律性，独特风格三者间做到了平衡。比如可以看到九宝，杭盖他们代表的蒙古的金属乐队，除了他们俩，很多其他的蒙古乐队过于偏于塑造自己的蒙古风格，基本抛弃了旋律性，同质化很严重；再比如黑麒，葬尸湖他们代表的国风黑金乐队，实力很强劲，编曲作曲作词能力顶满，但缺乏了部分创新，一个乐队产出的专辑同质化也是有的。<br>（叠甲：笔者超喜欢张哥的黑麒和九宝杭盖他们的，都看过现场摇的很嗨的，很尊敬他们的，求求别喷笔者）</p><p><img src="https://s2.loli.net/2023/11/01/c1CWLYqJ9hD4FaH.jpg" alt="主唱雪沉.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=1&amp;id=177</summary>
+      
+    
+    
+    
+    <category term="音乐随想" scheme="http://example.com/categories/%E9%9F%B3%E4%B9%90%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>hexo搭建的博客心得指南</title>
