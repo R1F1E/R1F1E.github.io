@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-01T03:54:50.245Z</updated>
+  <updated>2023-11-01T04:00:51.132Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://example.com/posts/bf5b3d65.html"/>
     <id>http://example.com/posts/bf5b3d65.html</id>
     <published>2023-10-31T14:43:45.000Z</published>
-    <updated>2023-11-01T03:54:50.245Z</updated>
+    <updated>2023-11-01T04:00:51.132Z</updated>
     
-    <content type="html"><![CDATA[<p>发了几次的博客，现在发现还是有一些问题没有解决，也有很多方便的方面。hexo有利有弊吧。</p><p>#搭建博客<br>先说如何搭建像本站一样的博客，可以在b站找到很多相关视频。下面是一个比较好的。  </p><iframe src="//player.bilibili.com/player.html?aid=44544186&bvid=BV1Yb411a7ty&cid=158772893&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>codesheep是在mac上弄得，基本上和windows上的操作差不多。有差距的地方请查看弹幕，有大神解答的。</p><p>还有就是要把_config.yml文件的以下东西改成这样</p><p><img src="https://s2.loli.net/2023/11/01/QC9GNmME3zFfqV2.png"></p><p>改成你github仓库的链接，不能用http那个</p><hr><p>#存在的问题</p><p>问题目前我还没解决的有很多，比如在文章里嵌入一个视频或者spotify的预览，用户在网站上看有时候看不见，如果不科学上网，spotify和油管的视频就看不见</p><p>下面是科学上网的情况</p><p><img src="https://s2.loli.net/2023/11/01/2Hg96BiLEFV5tcC.png"></p><p>下面是不科学上网的情况</p><p><img src="https://s2.loli.net/2023/11/01/wVv42Rq5pGZcTAz.png"></p><hr><p>还有的问题就是评论系统</p><p><img src="https://s2.loli.net/2023/10/31/6G8q7VYlUbIcNKk.jpg"></p><p>因为hexo自己没得评论系统，因为是静态博客，得从其他网站调用，而其他网站有Gitalk、Gitment、Valine和Disqus啥的，本来在搞来比力的，结果来比力这垃圾网站登都登不上去，不好评价。下个月再说吧</p><p>还有就是markdown的语法确实要习惯一下，第一次用markdown格式，当学习了<br>我是用的vscode写markdown，也挺方便，也不想再找专门的软件了，vscode还可以少开个终端，蛮方便的，日常学习的编程项目和博客用一个软件编辑确实精简。</p><p><img src="https://i.postimg.cc/pT1RwPKT/2023-11-01-114454.png"></p><hr><p>总的来说写博客还是蛮好玩的，平时不好说的话可以往这里倒垃圾，以后的做的项目也可以写文章在博客上进行分析复盘，坚持吧</p>]]></content>
+    <content type="html"><![CDATA[<p>发了几次的博客，现在发现还是有一些问题没有解决，也有很多方便的方面。hexo有利有弊吧。  </p><h1 id="搭建博客"><a href="#搭建博客" class="headerlink" title="搭建博客"></a>搭建博客</h1><p>先说如何搭建像本站一样的博客，可以在b站找到很多相关视频。下面是一个比较好的。  </p><iframe src="//player.bilibili.com/player.html?aid=44544186&bvid=BV1Yb411a7ty&cid=158772893&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>codesheep是在mac上弄得，基本上和windows上的操作差不多。有差距的地方请查看弹幕，有大神解答的。</p><p>还有就是要把_config.yml文件的以下东西改成这样</p><p><img src="https://s2.loli.net/2023/11/01/QC9GNmME3zFfqV2.png"></p><p>改成你github仓库的链接，不能用http那个</p><hr><h1 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h1><p>问题目前我还没解决的有很多，比如在文章里嵌入一个视频或者spotify的预览，用户在网站上看有时候看不见，如果不科学上网，spotify和油管的视频就看不见</p><p>下面是科学上网的情况</p><p><img src="https://s2.loli.net/2023/11/01/2Hg96BiLEFV5tcC.png"></p><p>下面是不科学上网的情况</p><p><img src="https://s2.loli.net/2023/11/01/wVv42Rq5pGZcTAz.png"></p><hr><p>还有的问题就是评论系统</p><p><img src="https://s2.loli.net/2023/10/31/6G8q7VYlUbIcNKk.jpg"></p><p>因为hexo自己没得评论系统，因为是静态博客，得从其他网站调用，而其他网站有Gitalk、Gitment、Valine和Disqus啥的，本来在搞来比力的，结果来比力这垃圾网站登都登不上去，不好评价。下个月再说吧</p><p>还有就是markdown的语法确实要习惯一下，第一次用markdown格式，当学习了<br>我是用的vscode写markdown，也挺方便，也不想再找专门的软件了，vscode还可以少开个终端，蛮方便的，日常学习的编程项目和博客用一个软件编辑确实精简。</p><p><img src="https://i.postimg.cc/pT1RwPKT/2023-11-01-114454.png"></p><hr><p>总的来说写博客还是蛮好玩的，平时不好说的话可以往这里倒垃圾，以后的做的项目也可以写文章在博客上进行分析复盘，坚持吧</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;发了几次的博客，现在发现还是有一些问题没有解决，也有很多方便的方面。hexo有利有弊吧。&lt;/p&gt;
-&lt;p&gt;#搭建博客&lt;br&gt;先说如何搭建像本站一样的博客，可以在b站找到很多相关视频。下面是一个比较好的。  &lt;/p&gt;
-&lt;iframe src=&quot;//player.bilibili</summary>
+    <summary type="html">&lt;p&gt;发了几次的博客，现在发现还是有一些问题没有解决，也有很多方便的方面。hexo有利有弊吧。  &lt;/p&gt;
+&lt;h1 id=&quot;搭建博客&quot;&gt;&lt;a href=&quot;#搭建博客&quot; class=&quot;headerlink&quot; title=&quot;搭建博客&quot;&gt;&lt;/a&gt;搭建博客&lt;/h1&gt;&lt;p&gt;先说如何搭建像本</summary>
       
     
     
